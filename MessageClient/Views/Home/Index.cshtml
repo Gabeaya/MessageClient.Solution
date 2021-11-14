@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>All Messages:</h1>
+
+<ol>
+@foreach (Message message in Model)
+{
+    <ul>
+        <li>ID: @message.MessageId</li>
+        <li>Name: @message.UserName</li>
+        <li>Species: @message.Age</li>
+        <li>Age: @message.Date</li>
+        <li>Gender: @message.MessageDescription</li>
+    </ul>
+    <br>
+}
+</ol>

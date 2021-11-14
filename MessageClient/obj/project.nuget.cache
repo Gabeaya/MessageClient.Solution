@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmxmoFU6iRHO0JIJEe1jstq7Wy/keS9vuQrilaVvkIuJZbuGNMwF8naBind8hoxVMRrnjLrLbZEJnwKC/pEsIw==",
+  "success": true,
+  "projectFilePath": "/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/MessageClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/taylorruis/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/taylorruis/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}

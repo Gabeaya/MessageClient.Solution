@@ -1,0 +1,34 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>New Message:</h1>
+
+<form action="/messages" method="post">
+  <label for="userName">User's Name</label>
+  <input id="userName" name="userName" type="text">
+  <label for="age">User's Age</label>
+  <input id="age" name="age" type="number">
+  <label for="date">Message post date</label>
+  <input id="date" name="date" type="text">
+  <label for="messageDescription">Message Description</label>
+  <input id="messageDescription" name="messageDescription" type="text">
+  <button type="submit">Go!</button>
+</form>
+
+<h1>All Messages:</h1>
+
+<ol>
+@foreach ( Message message in Model)
+{
+    <ul>
+        <li>ID: @message.MessageId</li>
+        <li>Name: @message.UserName</li>
+        <li>Date: @message.Date</li>
+        <li>Age: @message.Age</li>
+        <li>Message Description: @message.MessageDescription</li>
+    </ul>
+    <a href="/Messages/Details/@(message.MessageId)"><p>View Details</p></a>
+    <br>
+}
+</ol>
