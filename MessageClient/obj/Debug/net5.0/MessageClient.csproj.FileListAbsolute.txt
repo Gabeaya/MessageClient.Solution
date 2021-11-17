@@ -42,3 +42,14 @@
 /Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/obj/Debug/net5.0/ref/MessageClient.dll
 /Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/obj/Debug/net5.0/MessageClient.pdb
 /Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/obj/Debug/net5.0/MessageClient.genruntimeconfig.cache
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/Castle.Core.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/Humanizer.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/MySqlConnector.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/obj/Debug/net5.0/Razor/Views/Groups/Index.cshtml.g.cs
+/Users/taylorruis/Desktop/MessageClient.Solution/MessageClient/obj/Debug/net5.0/Razor/Views/Groups/Create.cshtml.g.cs

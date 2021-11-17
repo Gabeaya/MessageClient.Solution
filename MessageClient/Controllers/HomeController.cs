@@ -20,7 +20,7 @@ namespace MessageClient.Controllers
 
         public IActionResult Index()
         {
-            return RedirectToAction("Index", "Messages");
+            return View();
         }
 
         public IActionResult Privacy()

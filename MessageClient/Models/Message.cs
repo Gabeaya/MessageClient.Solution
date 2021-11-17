@@ -25,7 +25,7 @@ namespace MessageClient.Models
       return messageList;
     }
 
-     public static Message GetDetails(int id)
+    public static Message GetDetails(int id)
     {
       var apiCallTask = ApiHelper.Get(id);
       var result = apiCallTask.Result;
